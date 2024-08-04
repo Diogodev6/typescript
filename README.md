@@ -1,0 +1,1 @@
+Configurações Typescript<br>
