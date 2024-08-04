@@ -14,4 +14,7 @@
 // import './oo/classe_1'
 // import './oo/classe_2'
 // import './oo/classe_3'
-import './oo/desafio_estatico'
+// import './oo/desafio_estatico'
+// import './interfaces/usuario'
+// import './interfaces/flexivel'
+import './interfaces/funcao'
